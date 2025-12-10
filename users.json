@@ -55,5 +55,16 @@
         "email": "roi78@gmail.com",
         "username": "Roi",
         "password": "$2y$10$25xkvOYQnEzx9\/9iBD9Jy.Iy5uEyzAgn\/8R5MpLd9zA08WO3ZXV16"
+    },
+    {
+        "fullname": "Jansen Rose",
+        "phone": "+639693572163",
+        "address": "Pineapple",
+        "dob": "2004-06-19",
+        "pob": "Krusty Krab",
+        "gender": "Male",
+        "email": "beyowew123@gmail.com",
+        "username": "Jansen",
+        "password": "$2y$10$1PqFj7JLZYqQ3OcfV9KQJeKmQPQqTt4wu679rNsk.Y8MPDVMr8v.W"
     }
 ]
