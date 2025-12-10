@@ -1,0 +1,59 @@
+[
+    {
+        "fullname": "Ramel Palma",
+        "phone": "+639196430684",
+        "address": "Villasis, Pangasinan",
+        "dob": "2005-10-29",
+        "pob": "Rosales, Pangasinan",
+        "gender": "Other",
+        "email": "ramelpalma0908@gmail.com",
+        "username": "Rexziu",
+        "password": "$2y$10$EaR0x5wjLFGVJDzUocOyD.2VW0jNuzf95.98i3\/le18S2Nr7MCX1K",
+        "profile_picture": "uploads\/Rexziu_1765254275_Screenshot 2025-08-07 234614.png"
+    },
+    {
+        "fullname": "Aries De Torres",
+        "phone": "+639959201826",
+        "address": "Puelay Villasis Pangasinan",
+        "dob": "2006-09-08",
+        "pob": "Villasis Pangasinan",
+        "gender": "Male",
+        "email": "ariesdetorres@gmail.com",
+        "username": "ries",
+        "password": "$2y$10$8bbjFgQB4qkWopZGF.iuNe\/XmCRVsbDffoFDRvQ0uM2x3V1U6O8ea",
+        "profile_picture": "uploads\/ries_1765179520_Screenshot 2025-08-07 234614.png"
+    },
+    {
+        "fullname": "Justin Laroga",
+        "phone": "+639958347597",
+        "address": "Villasis, Pangasinan",
+        "dob": "2006-09-08",
+        "pob": "Villasis Pangasinan",
+        "gender": "Male",
+        "email": "justin28@gmail.com",
+        "username": "nics",
+        "password": "$2y$10$8mcSFJJv5o2xtMgLl5J5pusvm9viCPPd13PSQVk.UUPIX8LmiORea"
+    },
+    {
+        "fullname": "Rexyll Santiago",
+        "phone": "+639266233425",
+        "address": "Manaoag, Pangasinan",
+        "dob": "2006-04-21",
+        "pob": "Manaoag, Pangasinan",
+        "gender": "Male",
+        "email": "rexyllsantiago21@gmail.com",
+        "username": "Rex",
+        "password": "$2y$10$MPEHga52HARKwjlAXa1IEuJwznJhWvg5wkdsJLF2ORvFje7a\/2i4m"
+    },
+    {
+        "fullname": "Roi Barlongo",
+        "phone": "+639266233427",
+        "address": "Manaoag, Pangasinan",
+        "dob": "2006-04-20",
+        "pob": "Manaoag, Pangasinan",
+        "gender": "Male",
+        "email": "roi78@gmail.com",
+        "username": "Roi",
+        "password": "$2y$10$25xkvOYQnEzx9\/9iBD9Jy.Iy5uEyzAgn\/8R5MpLd9zA08WO3ZXV16"
+    }
+]
